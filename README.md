@@ -5,7 +5,7 @@
 - ⭐️ Буду рада делиться опытом и учиться у других разработчиков
 - 📫 Связаться со мной можно через yana.yanchenko88@yandex.by
 
-#### Свяжитесь со мной:
+<strong>Связаться со мной: </strong>
 <a href="mailto: yana.yanchenko88@yandex.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/82964950/132548062-107fdc94-a387-464c-bf89-3a83c8b92679.png" alt="" height="50" width="50" /></a>
 <a href="https://www.facebook.com/people/%D0%AF%D0%BD%D0%B0-%D0%AF%D0%BD%D1%87%D0%B5%D0%BD%D0%BA%D0%BE/100008831523353/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/82964950/132549247-9d3c7c64-f2fb-415e-a2d3-3343bfa2f58d.png" alt="" height="50" width="50" /></a>
 <a href="https://t.me/yanayanchenko88" target="blank"><img align="center" src="https://user-images.githubusercontent.com/82964950/132549157-bbd31a67-b813-43df-b834-7d2a0e20ceaf.png" alt="" height="50" width="50" /></a>
